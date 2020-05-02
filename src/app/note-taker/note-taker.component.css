@@ -1,0 +1,22 @@
+.keep-note-panel {
+    width: 60vw;
+    margin: auto;
+}
+.keep-note-wrapper{
+    display: flex;
+    flex-direction: column;
+}
+.keep-note-button{
+    display : flex;
+    justify-content: flex-end;
+}
+.error-message {
+    font-size: 1.5em;
+    color: red;
+    display: block;
+    text-align:center;
+}
+
+#notes{
+    color: blue;
+}
